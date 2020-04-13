@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JNKdFCyAPxBCOikeEgQU2r7bwUaGj6zWcVwOIP9VXA8xNgyQWY0nMafxoPg0JqTQa/Qjzq8leshYUt+A7hokIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sofi\\source\\repos\\Escape Mines\\EscapeMines.App\\EscapeMines.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sofi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\sofi\\.nuget\\packages\\system.io.abstractions\\10.0.8\\system.io.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\sofi\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.7.0\\system.io.filesystem.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\sofi\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\sofi\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
